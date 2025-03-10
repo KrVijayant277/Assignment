@@ -25,6 +25,19 @@
         "userId": 1,
         "username": "vijayant"
       }
+    },
+    {
+      "itemId": 3,
+      "timestamp": "2025-03-10T18:03:41.504Z",
+      "action": "create",
+      "details": {
+        "name": "Test Item",
+        "description": "test",
+        "ipAddress": "::1",
+        "userAgent": "python-requests/2.32.3",
+        "userId": 3,
+        "username": "testuser123"
+      }
     }
   ]
 }
